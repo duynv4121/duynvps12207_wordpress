@@ -1,0 +1,4 @@
+2021-06-08T06:45:56+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\wordpress-seo\src\integrations\front-end-integration.php on line 20
+
+2021-06-08T06:49:01+00:00 CRITICAL Out of memory (allocated 20971520) (tried to allocate 32768 bytes) in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\packages\action-scheduler\classes\schema\ActionScheduler_LoggerSchema.php on line 1
+
